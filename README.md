@@ -1,3 +1,3 @@
 # provjera-mcp
 
-Moved to [sudreg-mcp](https://github.com/provjeraHR/sudreg-mcp).
+Moved to [provjera-hr-mcp](https://github.com/provjeraHR/provjera-hr-mcp).
